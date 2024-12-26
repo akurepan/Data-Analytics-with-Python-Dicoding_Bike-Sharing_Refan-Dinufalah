@@ -85,7 +85,7 @@ Run streamlit app
 ## Streamlit_Cloud 
 Streamlit Cloud : [Dashboard Bike-Sharing](https://dashboardpy-ycxgfbgamkdjbhctktvddx.streamlit.app/)
 
-### Features
+## Features
 
    Hourly Analysis: Visualize bike rental data based on Highest and Lowest hours.
    Seasonal Impact: Explore the impact of seasons on bike rentals, which season has the most bike rentals.
@@ -94,7 +94,7 @@ Streamlit Cloud : [Dashboard Bike-Sharing](https://dashboardpy-ycxgfbgamkdjbhctk
    Monthly Rental Analysis: Map out which months of the year have the most rentals.
    Interactive Visualization: Use Streamlit for dynamic data exploration.
 
-### Analysis
+## Analysis
 The analysis focuses on:
 
    Investigate bicycle usage by season
