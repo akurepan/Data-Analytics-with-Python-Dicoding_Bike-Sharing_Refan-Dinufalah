@@ -78,7 +78,7 @@ pip install -r requirements.txt
    ```
 3. Run streamlit app
    ```
-   streamlit run dashboard.py
+   streamlit run dashboard/dashboard.p
    ```
 ## Streamlit_Cloud 
 Streamlit Cloud : [Dashboard](Link Cloud Streamlit)
