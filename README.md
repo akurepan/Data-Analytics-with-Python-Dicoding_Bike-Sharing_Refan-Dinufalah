@@ -77,7 +77,7 @@ Ensure that you have the following CSV files in the
 2. main_data_hour.csv
 3. Adjust the file paths in dashboard.py if necessary.
 
-## Run the Streamlit application
+## Run_Streamlit_Dashboard_app
 Run streamlit app
    ```
    streamlit run dashboard/dashboard.py
