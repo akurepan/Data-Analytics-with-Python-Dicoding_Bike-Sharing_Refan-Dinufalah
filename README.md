@@ -81,7 +81,6 @@ Ensure that you have the following CSV files in the
 
    ```
    cd Data-Analytics-with-Python-Dicoding_Bike-Sharing_Refan-Dinufalah
-   streamlit run dashboard/dashboard.py
    ```
 Run streamlit app
    ```
