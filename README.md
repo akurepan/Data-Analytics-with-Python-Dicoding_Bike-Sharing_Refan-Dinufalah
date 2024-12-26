@@ -78,6 +78,11 @@ Ensure that you have the following CSV files in the
 3. Adjust the file paths in dashboard.py if necessary.
 
 ## Run_Streamlit_Dashboard_app
+
+   ```
+   cd Data-Analytics-with-Python-Dicoding_Bike-Sharing_Refan-Dinufalah
+   streamlit run dashboard/dashboard.py
+   ```
 Run streamlit app
    ```
    streamlit run dashboard/dashboard.py
