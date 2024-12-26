@@ -6,7 +6,9 @@ The "Dicoding Data Analyst Project - Bike Sharing" is a course completion projec
 - [Overview](#Overview)
 - [File_Structures](#File_Structures)
 - [Dataset](#Dataset)
+- [Clone_Repository](#Clone_Repository)
 - [Installation](#Installation)
+- [Prepare_Data](#Prepare_Data)
 - [Run_Streamlit_Dashboard_app](#Run_Streamlit_Dashboard_app)
 - [Streamlit_Cloud](#Streamlit_Cloud)
 - [Features](#Features)
@@ -58,30 +60,30 @@ Key columns include:
 - `registered`: Number of registered users
 - `cnt`: Total number of bike rentals
 
-## Installation
-
-To run this project, ensure you have Python installed. Install the required packages using:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run_Streamlit_Dashboard_app
-1. Clone this repository
+## Clone_Repository
+Clone this repository
    ```
    git clone https://github.com/akurepan/Data-Analytics-with-Python-Dicoding_Bike-Sharing_Refan-Dinufalah/tree/akurepan
    ```
+## Installation
+To run this project, ensure you have Python installed. Install the required packages using:
+```bash
+pip install -r requirements.txt
+```
+## Prepare Data
+Ensure that you have the following CSV files in the
 
-2. Move to dashboard directory
+main_data_day.csv
+main_data_hour.csv
+Adjust the file paths in dashboard.py if necessary.
+
+## Run the Streamlit application
+Run streamlit app
    ```
-   cd Submission/dashboard
-   ```
-3. Run streamlit app
-   ```
-   streamlit run dashboard/dashboard.p
+   streamlit run dashboard/dashboard.py
    ```
 ## Streamlit_Cloud 
-Streamlit Cloud : [Dashboard](Link Cloud Streamlit)
+Streamlit Cloud : [Dashboard Bike-Sharing](https://dashboardpy-ycxgfbgamkdjbhctktvddx.streamlit.app/)
 
 ### Features
 
