@@ -1,4 +1,1 @@
-http://localhost:8501/
-
-
-https://github.com/akurepan/Data-Analytics-with-Python-Dicoding_Bike-Sharing_Refan-Dinufalah
+Link Cloud Streamlit : 
