@@ -73,9 +73,9 @@ pip install -r requirements.txt
 ## Prepare Data
 Ensure that you have the following CSV files in the
 
-main_data_day.csv
-main_data_hour.csv
-Adjust the file paths in dashboard.py if necessary.
+1. main_data_day.csv
+2. main_data_hour.csv
+3. Adjust the file paths in dashboard.py if necessary.
 
 ## Run the Streamlit application
 Run streamlit app
